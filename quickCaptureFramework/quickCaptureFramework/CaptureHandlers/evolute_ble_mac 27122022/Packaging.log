@@ -1,0 +1,198 @@
+2022-12-27 13:53:44 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7f8aead9c2a0; archive(resolved)="<IDEArchive: 0x7f8aece9dc90>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	Chain (11, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7f8aead9c2a0; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7f8ae6c98d60; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ae2e1a900; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ae84a3f70; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8aed9a7850; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ae86ab880; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8aea171fa0; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ae84976b0; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x7f8af681f340; teamID='J287W8AHQ3', teamName='Evolute Fintech Innovations Private Limited', teamType='Company', username='developers@evolute.in', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7f8ae846ef80; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="(null)">
+	<IDEDistributionContext: 0x7f8aea1ee050; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="<IDEDistributionMethodDevelopmentSignedMac: 0x7f8b103950f0>", team="(null)">
+	<IDEDistributionContext: 0x7f8aee45acb0; archive = "<IDEArchive: 0x7f8aece9dc90>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7f8aead9c2a0>
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionCopyItemStep
+2022-12-27 13:53:44 +0000  Running /usr/bin/ditto '-V' '/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app' '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app'
+2022-12-27 13:53:44 +0000  >>> Copying /Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app 
+2022-12-27 13:53:44 +0000  
+2022-12-27 13:53:44 +0000  copying file ./Contents/_CodeSignature/CodeResources ... 
+2022-12-27 13:53:44 +0000  8442 bytes for ./Contents/_CodeSignature/CodeResources
+2022-12-27 13:53:44 +0000  copying file ./Contents/MacOS/Evolute_Ble_Mac ... 
+2022-12-27 13:53:44 +0000  237216 bytes for ./Contents/MacOS/Evolute_Ble_Mac
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/AppIcon.icns ... 
+2022-12-27 13:53:44 +0000  25686 bytes for ./Contents/Resources/AppIcon.icns
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/NIo-5a-PCo-view-hUy-nV-JgS.nib ... 
+2022-12-27 13:53:44 +0000  10346 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/NIo-5a-PCo-view-hUy-nV-JgS.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/Tj8-hg-BI6-view-kn9-gN-QEC.nib ... 
+2022-12-27 13:53:44 +0000  20474 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/Tj8-hg-BI6-view-kn9-gN-QEC.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/fingerprintviewcontroller.nib ... 
+2022-12-27 13:53:44 +0000  1539 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/fingerprintviewcontroller.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/customtext.nib ... 
+2022-12-27 13:53:44 +0000  1523 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/customtext.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/main.nib ... 
+2022-12-27 13:53:44 +0000  1507 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/main.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib ... 
+2022-12-27 13:53:44 +0000  28932 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/printerviewcontroller.nib ... 
+2022-12-27 13:53:44 +0000  1531 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/printerviewcontroller.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib ... 
+2022-12-27 13:53:44 +0000  14039 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib
+copying file ./Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib ... 
+2022-12-27 13:53:44 +0000  2905 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/BarCode.nib ... 
+2022-12-27 13:53:44 +0000  1517 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/BarCode.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/smartcardviewcontroller.nib ... 
+2022-12-27 13:53:44 +0000  1535 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/smartcardviewcontroller.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/Aod-PA-d0W-view-zzP-MU-kH3.nib ... 
+2022-12-27 13:53:44 +0000  20330 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/Aod-PA-d0W-view-zzP-MU-kH3.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist ... 
+2022-12-27 13:53:44 +0000  943 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/Info.plist
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/QbR-ge-3AG-view-RPh-Ng-Hny.nib ... 
+2022-12-27 13:53:44 +0000  25296 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/QbR-ge-3AG-view-RPh-Ng-Hny.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Base.lproj/Main.storyboardc/gzd-JI-zbz-view-hXP-4A-f1o.nib ... 
+2022-12-27 13:53:44 +0000  15509 bytes for ./Contents/Resources/Base.lproj/Main.storyboardc/gzd-JI-zbz-view-hXP-4A-f1o.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/PrinterViewcontroller.nib ... 
+2022-12-27 13:53:44 +0000  1229 bytes for ./Contents/Resources/PrinterViewcontroller.nib
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Assets.car ... 
+2022-12-27 13:53:44 +0000  254184 bytes for ./Contents/Resources/Assets.car
+2022-12-27 13:53:44 +0000  copying file ./Contents/Resources/Image123.bmp ... 
+2022-12-27 13:53:44 +0000  301878 bytes for ./Contents/Resources/Image123.bmp
+copying file ./Contents/Resources/SmartcardViewcontroller.nib ... 
+2022-12-27 13:53:44 +0000  1231 bytes for ./Contents/Resources/SmartcardViewcontroller.nib
+2022-12-27 13:53:44 +0000  copying symlink ./Contents/Frameworks/EvoluteFramework.framework/Resources ... 
+2022-12-27 13:53:44 +0000  linked ./Contents/Frameworks/EvoluteFramework.framework/Resources
+2022-12-27 13:53:44 +0000  copying file ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/_CodeSignature/CodeResources ... 
+2022-12-27 13:53:44 +0000  3608 bytes for ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/_CodeSignature/CodeResources
+2022-12-27 13:53:44 +0000  copying file ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/wsq.txt ... 
+2022-12-27 13:53:44 +0000  1 bytes for ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/wsq.txt
+2022-12-27 13:53:44 +0000  copying file ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/StoryboardForBLElist.storyboardc/bU7-R8-ocO-view-tOy-S4-hL0.nib ... 
+2022-12-27 13:53:44 +0000  20276 bytes for ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/StoryboardForBLElist.storyboardc/bU7-R8-ocO-view-tOy-S4-hL0.nib
+copying file ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/StoryboardForBLElist.storyboardc/BleListViewcontroller.nib ... 
+2022-12-27 13:53:44 +0000  1531 bytes for ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/StoryboardForBLElist.storyboardc/BleListViewcontroller.nib
+copying file ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/StoryboardForBLElist.storyboardc/Info.plist ... 
+2022-12-27 13:53:44 +0000  287 bytes for ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/StoryboardForBLElist.storyboardc/Info.plist
+2022-12-27 13:53:44 +0000  copying file ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/Info.plist ... 
+2022-12-27 13:53:44 +0000  1714 bytes for ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/Resources/Info.plist
+2022-12-27 13:53:44 +0000  copying file ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework ... 
+2022-12-27 13:53:44 +0000  636080 bytes for ./Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework
+2022-12-27 13:53:44 +0000  copying symlink ./Contents/Frameworks/EvoluteFramework.framework/Versions/Current ... 
+2022-12-27 13:53:44 +0000  linked ./Contents/Frameworks/EvoluteFramework.framework/Versions/Current
+copying symlink ./Contents/Frameworks/EvoluteFramework.framework/EvoluteFramework ... 
+2022-12-27 13:53:44 +0000  linked ./Contents/Frameworks/EvoluteFramework.framework/EvoluteFramework
+2022-12-27 13:53:44 +0000  copying file ./Contents/Info.plist ... 
+2022-12-27 13:53:44 +0000  1849 bytes for ./Contents/Info.plist
+copying file ./Contents/PkgInfo ... 
+2022-12-27 13:53:44 +0000  8 bytes for ./Contents/PkgInfo
+2022-12-27 13:53:44 +0000  /usr/bin/ditto exited with 0
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-12-27 13:53:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8ae279bbd0; bundleID='vinoth.EvoluteFramework', path='<DVTFilePath:0x7f8ae1819580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8ae9382dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae2e63e30; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='(null)', teamID='J287W8AHQ3', identifier='vinoth.EvoluteFramework', executablePath='<DVTFilePath:0x7f8ae6114580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework'>', hardenedRuntime='1'>'>
+2022-12-27 13:53:44 +0000  Skipping profile for item: <IDEDistributionItem: 0x7f8ae27355a0; bundleID='com.Evolute.Evolute-Mac', path='<DVTFilePath:0x7f8ae1d47d30:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8aecf888a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae76db390; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.device.bluetooth" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='J287W8AHQ3', identifier='com.Evolute.Evolute-Mac', executablePath='<DVTFilePath:0x7f8aece9cb00:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/MacOS/Evolute_Ble_Mac'>', hardenedRuntime='1'>'>
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionSymbolsStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionAppThinningStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionArchThinningStep
+2022-12-27 13:53:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework' '-verify_arch' 'arm64e'
+2022-12-27 13:53:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-12-27 13:53:44 +0000  Skipping architecture thinning for item "EvoluteFramework" because arch "arm64e" wasn't found
+2022-12-27 13:53:44 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/MacOS/Evolute_Ble_Mac' '-verify_arch' 'arm64e'
+2022-12-27 13:53:44 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-12-27 13:53:44 +0000  Skipping architecture thinning for item "Evolute_Ble_Mac" because arch "arm64e" wasn't found
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionODRStep
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-12-27 13:53:44 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7f8ae279bbd0; bundleID='vinoth.EvoluteFramework', path='<DVTFilePath:0x7f8ae1819580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8ae9382dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae84d7460; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='(null)', teamID='J287W8AHQ3', identifier='vinoth.EvoluteFramework', executablePath='<DVTFilePath:0x7f8ae6114580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework'>', hardenedRuntime='1'>'>
+2022-12-27 13:53:44 +0000  Running /usr/bin/xattr '-crs' '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app'
+2022-12-27 13:53:44 +0000  /usr/bin/xattr exited with 0
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionCodesignStep
+2022-12-27 13:53:44 +0000  Entitlements for <IDEDistributionItem: 0x7f8ae279bbd0; bundleID='vinoth.EvoluteFramework', path='<DVTFilePath:0x7f8ae1819580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8ae9382dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae84cfcf0; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='(null)', teamID='J287W8AHQ3', identifier='vinoth.EvoluteFramework', executablePath='<DVTFilePath:0x7f8ae6114580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework'>', hardenedRuntime='1'>'>: {
+}
+2022-12-27 13:53:44 +0000  Entitlements for <IDEDistributionItem: 0x7f8ae279bbd0; bundleID='vinoth.EvoluteFramework', path='<DVTFilePath:0x7f8ae1819580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8ae9382dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae2760540; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='(null)', teamID='J287W8AHQ3', identifier='vinoth.EvoluteFramework', executablePath='<DVTFilePath:0x7f8ae6114580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework'>', hardenedRuntime='1'>'> are: {
+}
+2022-12-27 13:53:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8ae279bbd0; bundleID='vinoth.EvoluteFramework', path='<DVTFilePath:0x7f8ae1819580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8ae9382dc0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae27f7c90; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='(null)', teamID='J287W8AHQ3', identifier='vinoth.EvoluteFramework', executablePath='<DVTFilePath:0x7f8ae6114580:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A/EvoluteFramework'>', hardenedRuntime='1'>'> to: /var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/entitlements~~~zlCSCz
+2022-12-27 13:53:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'B942A75BB70C76665766286A2C839DDB27A718B3' '--entitlements' '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/entitlements~~~zlCSCz' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A'
+2022-12-27 13:53:44 +0000  /var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A: replacing existing signature
+2022-12-27 13:53:44 +0000  /var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A: signed bundle with Mach-O universal (x86_64 arm64) [vinoth.EvoluteFramework]
+2022-12-27 13:53:44 +0000  /usr/bin/codesign exited with 0
+2022-12-27 13:53:44 +0000  Entitlements for <IDEDistributionItem: 0x7f8ae27355a0; bundleID='com.Evolute.Evolute-Mac', path='<DVTFilePath:0x7f8ae1d47d30:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8aecf888a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae2e2b990; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.device.bluetooth" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='J287W8AHQ3', identifier='com.Evolute.Evolute-Mac', executablePath='<DVTFilePath:0x7f8aece9cb00:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/MacOS/Evolute_Ble_Mac'>', hardenedRuntime='1'>'>: {
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.device.bluetooth" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}
+2022-12-27 13:53:44 +0000  Entitlements for <IDEDistributionItem: 0x7f8ae27355a0; bundleID='com.Evolute.Evolute-Mac', path='<DVTFilePath:0x7f8ae1d47d30:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8aecf888a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae2e2c810; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.device.bluetooth" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='J287W8AHQ3', identifier='com.Evolute.Evolute-Mac', executablePath='<DVTFilePath:0x7f8aece9cb00:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/MacOS/Evolute_Ble_Mac'>', hardenedRuntime='1'>'> are: {
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.device.bluetooth" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}
+2022-12-27 13:53:44 +0000  Writing entitlements for <IDEDistributionItem: 0x7f8ae27355a0; bundleID='com.Evolute.Evolute-Mac', path='<DVTFilePath:0x7f8ae1d47d30:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7f8aecf888a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7f8ae84d9540; name='Apple Development: Parag Mehta (Y22P7F7N83)', hash='B942A75BB70C76665766286A2C839DDB27A718B3', serialNumber='419C69E84A57C1592FCB7532B0FE0213', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2022-04-22 08:38:09 +0000''>', entitlements='{
+    "com.apple.security.app-sandbox" = 1;
+    "com.apple.security.device.bluetooth" = 1;
+    "com.apple.security.files.user-selected.read-only" = 1;
+}', teamID='J287W8AHQ3', identifier='com.Evolute.Evolute-Mac', executablePath='<DVTFilePath:0x7f8aece9cb00:'/Users/cumulations/Library/Developer/Xcode/Archives/2022-12-27/uiMac 27-12-22, 7.23 PM.xcarchive/Products/Applications/Evolute_Ble_Mac.app/Contents/MacOS/Evolute_Ble_Mac'>', hardenedRuntime='1'>'> to: /var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/entitlements~~~ODlPoq
+2022-12-27 13:53:44 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'B942A75BB70C76665766286A2C839DDB27A718B3' '--entitlements' '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/entitlements~~~ODlPoq' '--generate-entitlement-der' '--preserve-metadata=identifier,flags,runtime' '/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app'
+2022-12-27 13:53:44 +0000  /var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app: replacing existing signature
+2022-12-27 13:53:44 +0000  /var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app: signed app bundle with Mach-O universal (x86_64 arm64) [com.Evolute.Evolute-Mac]
+2022-12-27 13:53:44 +0000  /usr/bin/codesign exited with 0
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionSkipPackagingStep
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-12-27 13:53:44 +0000  IDEDistributionItem init <DVTFilePath:0x7f8ae763ed00:'/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/Frameworks/EvoluteFramework.framework/Versions/A'>
+2022-12-27 13:53:44 +0000  IDEDistributionItem init <DVTFilePath:0x7f8ae8c260b0:'/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app'>
+2022-12-27 13:53:44 +0000  [OPTIONAL] Didn't find embedded provisioning profile for <DVTFilePath:0x7f8ae8c260b0:'/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app'>: Error Domain=NSCocoaErrorDomain Code=4 "No file at <DVTFilePath:0x7f8ae9121460:'/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/embedded.provisionprofile'>" UserInfo={NSLocalizedDescription=No file at <DVTFilePath:0x7f8ae9121460:'/var/folders/0v/nqg_663n3v57hcmmx2c0zk5w0000gn/T/XcodeDistPipeline.~~~BcXEd4/Root/Applications/Evolute_Ble_Mac.app/Contents/embedded.provisionprofile'>}
+2022-12-27 13:53:44 +0000  Processing step: IDEDistributionCreateManifestStep
+2022-12-27 13:53:44 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
